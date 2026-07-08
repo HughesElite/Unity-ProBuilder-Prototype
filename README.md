@@ -1,2 +1,3 @@
-# Unity-Demo-Project-1-3D-Levels
- Practising in unity by creating 3d level environments
+# Unity ProBuilder Experimentation Scene
+
+ Practising in unity by creating 3d level environments for potential use with dissertation project.
